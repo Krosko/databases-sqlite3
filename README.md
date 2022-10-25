@@ -1,3 +1,5 @@
+###### mac-wallpaper
+
 ```sql
 $ sqlite3 /Users/jas/Library/Application Support/Dock/desktoppicture.db
 ```
